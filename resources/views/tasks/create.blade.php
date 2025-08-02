@@ -1,5 +1,4 @@
 
-// resources/views/tasks/create.blade.php
 @extends('layouts.app')
 
 @section('title', 'Create Task')
